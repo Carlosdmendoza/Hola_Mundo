@@ -1,0 +1,9 @@
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe.config
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.pdb
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csprojResolveAssemblyReference.cache
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Form1.resources
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Properties.Resources.resources
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.GenerateResource.Cache
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.exe
+C:\Users\USAP\Desktop\3160281_Mendoza_Carlos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.pdb
